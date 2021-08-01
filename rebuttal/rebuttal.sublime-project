@@ -14,7 +14,7 @@
 	],
 	"settings":
 	{
-		"TEXroot": "paper.tex",
+		"TEXroot": "rebuttal.tex",
 		"ensure_newline_at_eof_on_save": true,
 		"spell_check": true,
 		"trim_trailing_white_space_on_save": true,
